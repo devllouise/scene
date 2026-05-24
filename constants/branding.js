@@ -1,1 +1,1 @@
-export const appLogo = require('../logo Scene.png');
+export const appLogo = require('../assets/logo-scene.png');
