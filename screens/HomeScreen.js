@@ -243,11 +243,6 @@ const styles = StyleSheet.create({
     paddingTop: 14,
     paddingBottom: 10,
   },
-  saudacao: {
-    color: colors.texto,
-    fontSize: 28,
-    fontWeight: '900',
-  },
   pergunta: {
     color: colors.texto,
     fontSize: 20,

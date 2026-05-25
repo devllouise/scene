@@ -14,7 +14,6 @@
     "@react-navigation/native": "*",
     "@react-navigation/native-stack": "*",
     "axios": "*",
-    "babel-preset-expo": "~54.0.10",
     "expo": "~54.0.34",
     "expo-sqlite": "~16.0.10",
     "expo-status-bar": "~3.0.9",

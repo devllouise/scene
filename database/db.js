@@ -116,12 +116,6 @@ export async function contarItens() {
   };
 }
 
-export async function removerItem(id) {
-  const banco = await abrirBanco();
-
-  await banco.runAsync('DELETE FROM scene_lista WHERE id = ?;', [id]);
-}
-
 export async function removerMarcacao(id, status) {
   const banco = await abrirBanco();
 
